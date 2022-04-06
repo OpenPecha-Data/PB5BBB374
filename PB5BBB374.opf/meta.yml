@@ -1,0 +1,31 @@
+id: PB5BBB374
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6163
+  instance_id: http://purl.bdrc.io/resource/IE1KG6163
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་ཨར་ལས་སྐོར་ཅུང་ཟད་བརྗོད་པ་མཐོང་བ་བརྒྱུད་པའི་ལག་ལེན།
+  alt_title:
+    zh-hans:
+    - 西藏传统建筑概述
+  author: http://purl.bdrc.io/resource/P1KG6165
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    7cf86f3047274e60bc86461096787a18:
+      title: པོད ༡་བོད་ཀྱི་ཨར་ལས་སྐོར་ཅུང་ཟད་བརྗོད་པ་མཐོང་བ་བརྒྱུད་པའི་ལག་ལེན།
+      volume_number: 1
+      base_file: UT1KG6163_I1KG8461_0000.txt
+      reference: http://purl.bdrc.io/resource/VL77DD88A1F365DF22
+      image_group: I1KG8461
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6163
+  - http://purl.bdrc.io/resource/W1KG6163
+  ocr_software: Namsel
+created_at: '2021-12-22T10:56:41.725346'
+last_modified_at: '2021-12-22T10:56:41.725352'
